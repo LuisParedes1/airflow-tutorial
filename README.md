@@ -26,4 +26,4 @@ Checkout [Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/sta
 
 # How to Guides
 
-Checkout varios [How-to guides](https://airflow.apache.org/docs/apache-airflow/stable/howto/index.html)
+There are several How-to guides available at https://airflow.apache.org/docs/apache-airflow/stable/howto/index.html
