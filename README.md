@@ -2,6 +2,8 @@
 
 [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/index.html) is an open-source platform for developing, scheduling, and monitoring batch-oriented workflows.
 
+Checkout [Notion Page](https://mis-notas.notion.site/Airflow-28025f24dbe280c69580e39aabfac26d?source=copy_link) for a summary of the core concepts.
+
 # Airflow Instalation and configuration
 
 Checkout the [Quick Start page](https://airflow.apache.org/docs/apache-airflow/stable/start.html#quick-start) to install and set up Airflow
