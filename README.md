@@ -22,7 +22,8 @@ Checkout [Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/sta
 
 ## Running Dags
 
-Remember to save the file within the Dags folder specified in your airflow.cfg (Default dag folder path: `~/airflow/dags`)
+- Remember to save the file within the Dags folder specified in your `airflow.cfg` 
+- Default dag folder path is `~/airflow/dags`
 
 To enable and trigger your Dag:
 
