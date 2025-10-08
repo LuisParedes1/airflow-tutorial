@@ -1,6 +1,6 @@
-# [Airflow 101: Building Your First Workflow](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html)
+# Airflow 101: Building Your First Workflow
 
-In this guide, we'll learn the essential concepts of Airflow, helping you understand how to write your first Dag.
+[In this guide](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/fundamentals.html), we'll learn the essential concepts of Airflow, helping you understand how to write your first Dag.
 
 # What is a Dag?
 
