@@ -68,7 +68,7 @@ Remember to save the file within the Dags folder specified in your airflow.cfg (
 
 To enable and trigger your Dag:
 
-1. Navigate to the Airflow UI.
+1. Navigate to the Airflow UI. (Run on the terminal `airflow standalone` and go to `http://localhost:8080/dags`)
 2. Find your Dag in the list and click the toggle to enable it.
 3. You can trigger it manually by clicking the “Trigger Dag” button, or wait for it to run on its schedule.
 

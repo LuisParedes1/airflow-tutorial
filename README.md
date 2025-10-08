@@ -16,9 +16,25 @@ The airflow standalone command initializes the database, creates a user, and sta
 airflow standalone
 ```
 
-Visit localhost:8080 in your browser and log in with the admin account details shown in the terminal.
+Visit `localhost:8080` in your browser and log in with the admin account details shown in the terminal.
 
 Checkout [Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/start.html) for more info
+
+## Running Dags
+
+Remember to save the file within the Dags folder specified in your airflow.cfg (`~/airflow/dags/tutorial_taskflow_api.py`)
+
+To enable and trigger your Dag:
+
+1. Navigate to the Airflow UI. (Run on the terminal `airflow standalone` and go to `http://localhost:8080/dags`)
+2. Find your Dag in the list and click the toggle to enable it.
+3. You can trigger it manually by clicking the “Trigger Dag” button, or wait for it to run on its schedule.
+
+- We can also run a standalone Dag from the terminal by running
+
+```python
+python ~/airflow/dags/[filename].py
+```
 
 # Tutorials
 
