@@ -22,7 +22,7 @@ Checkout [Quick Start](https://airflow.apache.org/docs/apache-airflow/stable/sta
 
 ## Running Dags
 
-Remember to save the file within the Dags folder specified in your airflow.cfg (`~/airflow/dags/tutorial_taskflow_api.py`)
+Remember to save the file within the Dags folder specified in your airflow.cfg (Default dag folder path: `~/airflow/dags`)
 
 To enable and trigger your Dag:
 
