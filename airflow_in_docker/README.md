@@ -27,6 +27,16 @@
 
 You’ll land in the Airflow dashboard, where you can trigger Dags, explore logs, and manage your environment.
 
+# Trigger and explore your Dag
+
+Open the Airflow UI and find the `process_employees` Dag in the list. Toggle it “on” using the slider, then trigger a run using the play button.
+
+You can watch each task as it runs in the Grid view, and explore logs for each step.
+
+You can watch each task as it runs in the Grid view, and explore logs for each step.
+
+![execute_dag](image.png)
+
 # Reference
 
 * Following [Initial setup](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html#initial-setup) for [Building a Simple Data Pipeline](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html#) tutorial
