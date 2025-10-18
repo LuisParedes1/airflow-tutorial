@@ -26,3 +26,7 @@
     * Password: `airflow`
 
 You’ll land in the Airflow dashboard, where you can trigger Dags, explore logs, and manage your environment.
+
+# Reference
+
+* Following [Initial setup](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html#initial-setup) for [Building a Simple Data Pipeline](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/pipeline.html#) tutorial
