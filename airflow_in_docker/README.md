@@ -31,11 +31,15 @@ You’ll land in the Airflow dashboard, where you can trigger Dags, explore logs
 
 Open the Airflow UI and find the `process_employees` Dag in the list. Toggle it “on” using the slider, then trigger a run using the play button.
 
-You can watch each task as it runs in the Grid view, and explore logs for each step.
+![execute_dag](./images/dag_run.png)
 
 You can watch each task as it runs in the Grid view, and explore logs for each step.
 
-![execute_dag](image.png)
+
+![dag_steps](./images/dag_steps.png)
+
+![sql](./images/dag_sql.png)
+
 
 # Reference
 
