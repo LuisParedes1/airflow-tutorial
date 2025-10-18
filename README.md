@@ -41,6 +41,7 @@ python ~/airflow/dags/[filename].py
 
 - [Airflow 101: Building Your First Workflow](./building-your-first-workflow/README.md)
 - [Pythonic Dags with the TaskFlow API](./pythonic_dags_with_the_taskflow_api/)
+- [Building a Simple Data Pipeline](./airflow_in_docker/)
 - [More Tutorials](https://airflow.apache.org/docs/apache-airflow/stable/tutorial/index.html)
 
 # How to Guides
